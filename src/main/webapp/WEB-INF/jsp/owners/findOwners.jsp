@@ -32,14 +32,14 @@
             </div>
             <div class="form-group">
                 <div class="col-sm-offset-2 col-sm-10">
-                    <button type="submit" class="btn btn-default">Find Owners of the petsssssssssssss and dogs.......catssssssssssss...</button>
+                    <button type="submit" class="btn btn-default">Find Owners of the pets and dogs</button>
                 </div>
             </div>
 
         </form:form>
 
         <br/>
-        <a class="btn btn-default" href='<spring:url value="/owners/new" htmlEscape="true"/>'>Add Owner.......sssssssssssaaaaaaaaaaaaaaaaa</a>
+        <a class="btn btn-default" href='<spring:url value="/owners/new" htmlEscape="true"/>'>Add Owner</a>
 
         <petclinic:pivotal/>
     </div>
